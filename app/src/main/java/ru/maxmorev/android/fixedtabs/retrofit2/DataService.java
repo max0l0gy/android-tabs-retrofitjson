@@ -1,4 +1,4 @@
-package com.example.rick.a1402retrofitjson;
+package ru.maxmorev.android.fixedtabs.retrofit2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -60,6 +60,7 @@ public class DataService {
      **/
     private DataService(){
         mRetrofit = new Retrofit.Builder()
+                //.baseUrl("http://jsonplaceholder.typicode1.com/")
                 .baseUrl("http://jsonplaceholder.typicode.com/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();

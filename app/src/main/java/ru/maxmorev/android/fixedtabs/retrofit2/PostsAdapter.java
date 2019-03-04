@@ -1,4 +1,4 @@
-package com.example.rick.a1402retrofitjson;
+package ru.maxmorev.android.fixedtabs.retrofit2;
 
 import android.databinding.DataBindingUtil;
 import android.support.annotation.NonNull;
@@ -7,6 +7,7 @@ import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
+import com.example.rick.a1402retrofitjson.R;
 import com.example.rick.a1402retrofitjson.databinding.ListItemBinding;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.example.rick.a1402retrofitjson;
+package ru.maxmorev.android.fixedtabs.retrofit2;
 
 import java.util.List;
 

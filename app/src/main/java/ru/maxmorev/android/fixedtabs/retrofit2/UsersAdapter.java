@@ -1,4 +1,4 @@
-package com.example.rick.a1402retrofitjson;
+package ru.maxmorev.android.fixedtabs.retrofit2;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

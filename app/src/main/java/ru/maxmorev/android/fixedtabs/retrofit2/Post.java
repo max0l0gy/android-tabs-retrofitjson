@@ -1,4 +1,4 @@
-package com.example.rick.a1402retrofitjson;
+package ru.maxmorev.android.fixedtabs.retrofit2;
 
 import com.google.gson.annotations.SerializedName;
 /**
