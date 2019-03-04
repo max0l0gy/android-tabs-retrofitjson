@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">1402 RetroFit JSON</string>
+    <string name="app_name">FixedTabsRetroFitExample</string>
     <string name="tab_posts">POSTS</string>
     <string name="tab_users">USERS</string>
     <string name="app_title">FIXED TABS EXAMPLE</string>
